@@ -1,2 +1,3 @@
-# GoAnimate-Jacob2010-Edition-Assets
-GoAnimate Wrapper Jacob2010 Edition assets (before it was first shut down in April 2020 For No Reason)
+# d3v4eglovri8yt cloudfront recreation
+ 
+This is a cool recreation of the d3v4eglovri8yt cloudfront server, with some extra stuff added.
