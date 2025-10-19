@@ -2940,4 +2940,100 @@
 <prop id="dgdtz2p-81afd847-0e4a-44b4-8d03-72c5e26a841d.png" name="Gummy With a Microphone For The 2nd Time!" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="de6dyhx-2844bbf1-3dfc-4fd3-b29d-7b42bfb21ebf.png" name="Gummy Playing a Guitar" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="de6dxyv-950eb20c-3a79-4111-a6e3-5d61193debba.png" name="Gummy Belly!" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<char id="lily" name="Lily (Sprunki OC)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="crying.swf" name="Cry" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+                <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="talk.swf" name="Talking" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+	</char>
+        <char id="ducky" name="Ducky (Sprunki OC)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="crying.swf" name="Cry" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+                <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="talk.swf" name="Talking" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+	</char>
+<prop id="gummy_bear_making_cool_pose_by_poyo20_dfv807t-414w-2x.png" name="YOU GUMMY!" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" /><prop id="osito_gominola_png_by_poyo20_dfx5m1a-375w-2x.png" name="Gummy Pointing" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" /><prop id="df9u2ej-51824e5c-f55e-4e47-a2c8-c01066b3751f.png" name="Gummy Belly (REALLY FAT!)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" /><prop id="gummy_bear_with_a_gun_____by_poyo20_dfunimh-375w-2x.png" name="Gummy Holding With a Gun!" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="1279620.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="11062834.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="58953298.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="9774475021302.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="60652112823896.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="229764769435237.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="7709709078923301000.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="7336213.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="9505924.jpeg" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="15574196.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="98737741.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="240284167.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="378276609.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="6164241709.jpeg" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="42199229878.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="606927970419.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="1557139403031.jpeg" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="53529351375641.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="56692643854896.jpeg" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="96319315757070.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="7709709078923301000.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="98480434472271.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="1746465179700038.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="740445312221384.jpeg" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="6999056402373188.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="10188720835504150.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="132201545704994050.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="804820441690840300.jpeg" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="805175088023834100.jpeg" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="844783773570183600.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="3748074979319428600.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="19454465938148753000.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5225917772714505000.png" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="86029514030605620000.jpeg" name="scary" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="85905258710442.png" enc_asset_id="a-20188" name="abandoned-walmart-front.webp (by Bye)" published="1" enable="Y"><tags>Walmart, Wallmart, abandoned, backrooms,</tags></background><background id="66723243164062.jpeg" enc_asset_id="a-21814" name="Walmart (by Ahmet Yusuf Kutay)" published="1" enable="Y"><tags/></background><background id="61161924041730.jpeg" enc_asset_id="a-21829" name="Walmart (by Ahmet Yusuf Kutay)" published="1" enable="Y"><tags/></background><background id="832702782998012300.jpeg" enc_asset_id="a-137042" name="walmart-supercentre-storefront-1-341152498.jpg (by Goodspeed Animations)" published="1" enable="Y"><tags/></background><background id="165769645549669.jpeg" enc_asset_id="a-218980" name="super low quality walmart taken from a slideshow.jpg (by luistrublic)" published="1" enable="Y"><tags>this, background, is, fucking, terrible, please, dont, use, it</tags></background><background id="4209741700694.jpeg" enc_asset_id="a-225351" name="Walmart-inside.jpeg (by Stoni's GoAnimations)" published="1" enable="Y"><tags/></background><background id="457409632293438000.png" enc_asset_id="a-255164" name="Walmart-cyber-monday-720x720.webp" published="1" enable="Y"><tags/></background><background id="415466367.jpeg" enc_asset_id="a-256101" name="WALMART-STOREFRONT-iStock-1205217071.jpg (by Mike Animate)" published="1" enable="Y"><tags/></background><background id="958092648543.png" enc_asset_id="a-256358" name="walmart-store-exterior-royalty-free-image-1584370149.webp" published="1" enable="Y"><tags/></background><background id="261030039176883550.jpeg" enc_asset_id="a-256360" name="1f5eb637-bda2-43c1-bc9c-c4cccd74f82f-walmart.jpg (by tw0065131@gmail.com)" published="1" enable="Y"><tags/></background><background id="37246592071.jpeg" name="231211113311-walmart-burbank-black-friday-111423.jpg" published="1" enable="Y"><tags/></background><background id="922717020971.png" name="walmart-toy-aisle.webp" published="1" enable="Y"><tags/></background><background id="91468626941179740000.jpeg" enc_asset_id="a-261058" name="190711-walmart-grocery-retail-monopoly-store-front-1-176392713 (by Cole)" published="1" enable="Y"><tags>190711-walmart-grocery-retail-monopoly-store-front-1-176392713</tags></background><background id="1342697127867439400.jpeg" name="SZ_æ·±å³_Shenzhen_ç¾æ¹_Luohu_night_æ²ç¾çªåº_Walmart_store_interior_August_2018_SSG_03.jpg (by Buster Bunny Films)" published="1" enable="Y"><tags/></background><background id="3238524.jpeg" enc_asset_id="a-275693" name="20170212_Bilingual_signs_in_Walmart_Hangzhou_Toys.jpg (by Buster Bunny Films)" published="1" enable="Y"><tags/></background><background id="791078350710920.jpeg" enc_asset_id="a-279506" name="Walmart_Slideshow05-1665136146.jpg (by Boris.D)" published="1" enable="Y"><tags/></background><background id="16980853.png" enc_asset_id="a-288108" name="Walmart.png" published="1" enable="Y"><tags/></background><background id="35849652065.jpeg" enc_asset_id="a-288109" name="Inside of Walmart.jpg" published="1" enable="Y"><tags/></background><background id="1237833933175318.jpeg" enc_asset_id="a-298239" name="190711-walmart-grocery-retail-monopoly-store-front-1.jpg" published="1" enable="Y"><tags/></background><background id="3143352317393353000.jpeg" enc_asset_id="a-372688" name="walmart (by ShadowVortex)" published="1" enable="Y"><tags>walmart </tags></background><background id="9062398445319722000.jpeg" enc_asset_id="a-393127" name="portland-oregon-usa-april-walmart-store-interior-american-multinational-corporation-runs-large-discount-stores-114896726-1857122527.jpg (by TheCarWashMan2020)" published="1" enable="Y"><tags/></background><background id="938741276986.jpeg" enc_asset_id="a-403211" name="walmart-store-exterior-royalty-free-image-1584370149.jpg" published="1" enable="Y"><tags/></background><background id="575046408.jpeg" enc_asset_id="a-403213" name="customers-entering-a-walmart-store-in-south-san-francisco-bay-area.jpg " published="1" enable="Y"><tags/></background><background id="5965351317634699000.jpeg" enc_asset_id="a-403218" name="Walmart-Pharmacy.jpg" published="1" enable="Y"><tags/></background><background id="6019886970757.jpeg" enc_asset_id="a-403219" name="walmart-gift-cards-1200x628-thumbnail.jpg" published="1" enable="Y"><tags/></background><background id="86269558171367650.png" enc_asset_id="a-428283" name="dvds-at-walmart.webp (by Ivan Jeria 2K5)" published="1" enable="Y"><tags/></background><background id="6851097853.jpeg" enc_asset_id="a-985208" name="Walmart-aisle.jpg (by yomaam466)" published="1" enable="Y"><tags/></background><background id="79925280582354.jpeg" enc_asset_id="a-998045" name="walmartparkinglot.jpg (by yomaam466)" published="1" enable="Y"><tags/></background><background id="6184447.png" enc_asset_id="a-1102958" name="Le Walmart.webp (by WrapperFlashCringe)" published="1" enable="Y"><tags/></background>
+<prop id="jamaly_splaat.swf" enc_asset_id="0_4lT_zs8NDc" name="Jamaly Splaat" holdable="0" wearable="1" placeable="1" published="1" facing="left" subtype="none"><tags>barney</tags></prop>
+<prop id="Peppa Dancing.swf" name="Peppa Dancing" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" /><prop id="Po Dancing.swf" name="Po Dancing" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" /><prop id="Jacob2010 - Gummy.swf" name="Gummy With a Background!" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" /><prop id="Jacob2010 - Gummy Does a Dancing!.swf" name="Gummy Does The Fortnite Dance!" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<char id="96267932308" enc_asset_id="a-331346" thumb="83979944791919.swf" default="83979944791919.swf" name="Jevin (by GoTube)" isCC="N" enable="Y" facing="left" published="1">
+<tags>sprunki</tags>
+<action id="83979944791919.swf" name="default"/>
+<action id="895758936.swf" name="Angry" enable="Y" aid="895758936.swf"/>
+<action id="7577987465224.swf" name="Cry" enable="Y" aid="7577987465224.swf"/>
+<action id="1149842064153930200.swf" name="Dance" enable="Y" aid="1149842064153930200.swf"/>
+<action id="7241606865461876.swf" name="Happy" enable="Y" aid="7241606865461876.swf"/>
+<action id="767073065684785.swf" name="Sad" enable="Y" aid="767073065684785.swf"/>
+<action id="5652274296843369000.swf" name="Shocked (no talk)" enable="Y" aid="5652274296843369000.swf"/>
+<action id="602140375410149600.swf" name="Shocked (talking)" enable="Y" aid="602140375410149600.swf"/>
+<action id="6448530287.swf" name="Laugh" enable="Y" aid="6448530287.swf"/>
+<action id="592521727864523900.swf" name="Walk" enable="Y" aid="592521727864523900.swf"/>
+</char>
+<char id="6366051146698631000" enc_asset_id="a-264499" thumb="8916092923.swf" default="8916092923.swf" name="Hoops (by Corgi of chaos)" isCC="N" enable="Y" facing="left" published="1">
+<tags>stand</tags>
+<action id="8916092923.swf" name="stand"/>
+<action id="7747752.swf" name="laugh" enable="Y" aid="7747752.swf"/>
+</char>
+<char id="boyfriend" name="Boyfriend" thumb="df0y2kj-e2b8ee38-34de-4af6-9209-dc977ac42884.png" facing="left" default="df0y2kj-e2b8ee38-34de-4af6-9209-dc977ac42884.png" motion="df0y2kj-e2b8ee38-34de-4af6-9209-dc977ac42884.png" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="df0y2kj-e2b8ee38-34de-4af6-9209-dc977ac42884.png" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="Boyfriend_Accurate_Design.png" name="Two Fingers" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="Boyfriend_SA2.png" name="Two Fingers For The 2nd Time!" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+</char>
+<char id="caillouretro" name="Caillou (Cartoon Classics)" thumb="cartoonclassicscailloustanding.swf" facing="left" default="cartoonclassicscailloustanding.swf" motion="cartoonclassicscaillouwalking.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="cartoonclassicscailloustanding.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="cartoonclassicscailloutalking.swf" name="Talk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="cartoonclassicscaillouwalking.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+</char>
+<char id="ben_talkingfriends" name="Talking Ben (Talking Friends)" thumb="7d33ea16a32a9532ea39826820a54ec2-removebg-preview.png" facing="left" default="7d33ea16a32a9532ea39826820a54ec2-removebg-preview.png" motion="7d33ea16a32a9532ea39826820a54ec2-removebg-preview.png" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="7d33ea16a32a9532ea39826820a54ec2-removebg-preview.png" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="Bennie-removebg-preview.png" name="Pose" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="Ben2014-removebg-preview.png" name="Stand (2014)" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+                <action id="Talking_Ben-removebg-preview.png" name="Stand For The 2nd Time!" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="Ben3-removebg-preview.png" name="Getting a Ipad!" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+</char>
+<char id="chrisayaogamer" name="ChrisAyaoGamer" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+   <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="251"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="252"/>
+       <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="253"/>
+        <action id="sit.swf" name="Sit" loop="Y" totalframe="1" enable="Y" aid="254"/>
+        <action id="happy.swf" name="Happy" loop="Y" totalframe="1" enable="Y" aid="255"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="256"/>
+   </char>
+<prop id="322582957.png" holdable="0" headable="0" wearable="0" placeable="1" facing="left" subtype="prop" enc_asset_id="a-1069332" name="Nerdy Jr Standing (by GrapzMen GoAnimation)" published="1" enable="Y"><tags/></prop><prop id="8069209044.swf" holdable="0" headable="0" wearable="0" placeable="1" facing="left" subtype="prop" enc_asset_id="a-1072770" name="Nerdy Jr Talking (by GrapzMen GoAnimation)" published="1" enable="Y"><tags/></prop><prop id="761183863.swf" holdable="0" headable="0" wearable="0" placeable="1" facing="left" subtype="prop" enc_asset_id="a-1072837" name="Nerdy Jr Talking New (by GrapzMen GoAnimation)" published="1" enable="Y"><tags/></prop>
 </theme>
